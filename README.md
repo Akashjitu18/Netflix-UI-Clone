@@ -40,10 +40,5 @@ This code is free to use, modify, and distribute for personal and commercial pur
 Contact :
 If you have any questions or feedback, feel free to contact me at akashjitu18@gmail.com.
 
-Acknowledgments :
-
-Inspiration from Netflix’s user interface.
-
-Helpful resources and tutorials from [source](https://youtu.be/ovKVqo-L2EM?si=4Xr7zjKiczYndTDo).
 
 
